@@ -11,9 +11,6 @@
   <img align="left" alt="Javi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=Javinaiidu.Javnaiidu)
-
 <br />
 
 Hi, I'm [Javi Aldazabal], a SW engineer 🚀 from Spain. Currently, I'm developing autonomous navigation software for UAVs in Alerion (https://www.aleriontec.com), as well as collaborating with Klepsydra (https://www.klepsydra.org), while developing Melissa, a distributed high-performance platform which turns out in real robotic bees.(https://github.com/javi555/melissa/tree/develop). Beside's programming, I enjoy traveling and flying drones.
@@ -42,18 +39,18 @@ Hi, I'm [Javi Aldazabal], a SW engineer 🚀 from Spain. Currently, I'm developi
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-C++          16 hrs 56 mins  ██████████████▓░░░░░░░░░░   58.39 % 
-Markdown     5 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-JavaScript   3 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-HTML         1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-YAML         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+SW Integration  16 hrs 56 mins  ██████████████▓░░░░░░░░░░   58.39 % 
+C++             5 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+JavaScript      3 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Python          1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+YAML            28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 ```
 <!--END_SECTION:waka-->
 
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Javinaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=javi555&show_icons=true&theme=gotham" alt="javiAldazabal" />
 
 </details>
 
