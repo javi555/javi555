@@ -2,8 +2,8 @@
 **javi555/javi555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <a href="https://www.linkedin.com/in/javieraldazabal/">
-  <img align="left" alt="Javi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+  <img align="left" alt="Javi's LinkdeIN" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" />
+</a></br>
 
 ### Hi there!
 
