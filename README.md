@@ -9,7 +9,7 @@
 
 I'm Javi Aldazabal, a software engineer from Spain.
 
-Currently, I'm developing autonomous navigation software for UAVs in Alerion, as well as collaborating with Klepsydra creating software for embedded systems for robotics.
+Currently, I'm developing autonomous navigation software for UAVs in Alerion, creating for embedded robotic systems.
 
 As a personal open source project, I have created Melissa, a distributed high-performance platform which turns out in real robotic bees.
 
@@ -17,7 +17,6 @@ Beside's programming, I enjoy travelling and learning something new.
 
 ## References:
 * Alerion: https://www.aleriontec.com
-* Klepsydra: https://www.klepsydra.org
 * Melissa: https://github.com/javi555/melissa/tree/develop)
 <br />
 
