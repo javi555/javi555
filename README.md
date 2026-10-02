@@ -1,95 +1,46 @@
-<!--
-**javi555/javi555** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
--->
+# Javier Aldazabal
 
-<a href="https://www.linkedin.com/in/javieraldazabal/">
-  <img align="left" alt="Javier Aldazabal | LinkedIn" width="36px"
-       src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" />
-</a>
-<br/><br/>
-
-## 👋 Hi there!
-
-I'm **Javier Aldazabal**, a **Software Engineer and Technical Leader** based in Spain, specialized in **autonomous systems, UAVs and embedded robotics**.
-
-Currently working at **Alerion**, where I develop and lead software for **autonomous navigation in UAVs**, focused on **embedded robotic systems** operating in real-world, safety-critical environments.
-
-Over the last years, I have **led multidisciplinary teams**:
-- 🚀 **GNC (Guidance, Navigation & Control)**
-- 💻 **Software & Hardware**
-- 📊 **Analytics & Data-driven development**
-
-Combining **hands-on engineering** with **team leadership**, system architecture and long-term technical vision.
+**Software Engineer & Technical Leader · Autonomous Systems, UAVs and Embedded Robotics**
+📍 Donostia, Spain
 
 ---
 
-## 🧭 What I do
+## About
 
-- Autonomous navigation & control for UAVs  
-- Embedded systems & real-time software  
-- Neural network integration in robotic and drone systems  
-- High-performance & distributed systems  
-- Technical leadership & team mentoring  
-- Applied AI & LLMs for engineering workflows  
+I build and lead software for autonomous navigation in UAVs, focusing on embedded robotic systems that operate in real-world, safety-critical environments. I'm currently at **Alerion**.
 
----
+I combine hands-on engineering with technical leadership, system architecture and long-term technical vision. In recent years I have led multidisciplinary teams across:
 
-## 🐝 Open Source
+- **GNC**: Guidance, Navigation & Control
+- **Software & Hardware**: embedded and system-level development
+- **Analytics**: data-driven development
 
-As a personal open-source project, I created **Melissa**:  
-a **distributed high-performance platform** designed for **real robotic bees**, exploring swarm intelligence and scalable robotic coordination.
+## Focus Areas
 
-🔗 https://github.com/javi555/melissa/tree/develop
+| Area | Details |
+|---|---|
+| Autonomy | Navigation and control for UAVs |
+| Embedded | Real-time software, embedded Linux |
+| AI | Neural network integration in robotic and drone systems; applied LLMs for engineering workflows |
+| Systems | High-performance and distributed systems, networking, multithreading |
+| Leadership | Team mentoring, architecture, technical roadmap |
 
----
+## Tech Stack
 
-## 🧠 Technical Skills
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-### Core Technologies
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+Also: CI/CD, embedded systems, multithreading, networking.
 
----
+## Open Source
 
-## 📊 Skill Overview
+**[Melissa](https://github.com/javi555/melissa)**: a distributed high-performance platform designed for real robotic bees, exploring swarm intelligence and scalable robotic coordination. *(C++)*
 
-```text
-Autonomous Systems      ██████████████████░
-Embedded Systems       █████████████████░░
-C / C++                █████████████████░░
-Python                 ███████████████░░░░
-Multithreading & RT    ████████████████░░░
-Linux Systems          ████████████████░░░
-Networks               ███████████████░░░░
-CI / CD                ██████████████░░░░░
-Neural Networks (UAV)  ██████████████░░░░░
-LLMs & AI Tooling      ██████████████░░░░░
+## Connect
 
-## 👥 Leadership & Soft Skills
-
-Technical Leadership   █████████████████░░
-Team Mentoring         █████████████████░░
-System Architecture    ████████████████░░░
-Cross-team Alignment   ████████████████░░░
-Product-Oriented Mind  ███████████████░░░░
-
-Leading multidisciplinary engineering teams
-
-Translating complex requirements into robust architectures
-
-Bridging software, hardware and analytics
-
-Promoting clean code, reviews and engineering best practices
-
-## 🌍 Beyond Code
-
-Besides programming, I enjoy travelling, exploring new technologies, and continuously learning about AI, robotics and complex systems.
-
-## 🔗 References
-
-Alerion → https://www.aleriontec.com
-Melissa → https://github.com/javi555/melissa
+- GitHub: [@javi555](https://github.com/javi555)
+- LinkedIn: _add your link here_
